@@ -1,4 +1,4 @@
-//Hi
+//Hii
 public class Time {
 
     private int seconds;
